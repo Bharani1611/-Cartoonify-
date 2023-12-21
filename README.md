@@ -1,4 +1,4 @@
-# -Easy_cartoonify-
+# -Cartoonify-
 
 # OpenCV Cartoonify
 
